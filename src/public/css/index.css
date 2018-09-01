@@ -1,0 +1,11 @@
+/* voided.pw - Helpers */
+img {
+    border: 5px solid #00c7ff;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-size: cover !important;
+    background-attachment: fixed !important;
+    background-image: url("https://imgur.com/894PEbY.png") !important;
+}

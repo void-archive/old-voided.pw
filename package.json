@@ -1,0 +1,10 @@
+{
+    "name": "voided.pw",
+    "description": "Voided X official website",
+    "version": "0.0.0",
+    "dependencies": {
+        "ejs": "*",
+        "express": "^4.16.3",
+        "path": "^0.12.7"
+    }
+}
