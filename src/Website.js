@@ -10,4 +10,4 @@ app
     .get('/', (req, res) => {
         res.render('index.ejs');
     })
-    .listen(3001, () => console.log('[Website Status]: voided.pw is online'));
+    .listen(3000, () => console.log('[Website Status]: voided.pw is online'));
